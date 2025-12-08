@@ -24,6 +24,13 @@ GitHub only lets me pin a handful of repos, so this README collects the full pic
 
 - **Bluesky Client** – React + TypeScript client for Bluesky feed testing
   - [Repo](https://github.com/MWardenDev/bsky-client)
+ 
+- **React Metrics Dashboard** - A responsive metrics dashboard built with React, TypeScript, Vite, and Tailwind CSS. Features a polished sidebar/topbar layout, modular component structure, and placeholder metric cards ready for API integrations. Designed as a portfolio project to demonstrate modern UI development, planning, and iterative versioning.
+  - [Repo](https://github.com/MWardenDev/react-metrics-dashboard)
+ 
+- **React Components UI** - A small, focused React + TypeScript component library used across my personal portfolio projects.
+Built with Vite and Tailwind CSS, this repo showcases how I structure reusable UI building blocks for dashboards and similar apps.
+  - [Repo](https://github.com/MWardenDev/react-components-ui)
 
 (Additional frontend projects to be added.)
 
