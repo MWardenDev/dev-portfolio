@@ -15,7 +15,7 @@ GitHub only lets me pin a handful of repos, so this README collects the full pic
   - Focus: OAuth 2.0, external API integration, clean minimal API design
 
 - **Spotify Connector (Go)** – Spotify Web API client in Go
-  - [Repo](https://github.com/MWardenDev/REPLACE_SPOTIFY_GO)
+
   - Focus: polyglot backend, HTTP clients, Docker
 
 ---
