@@ -39,7 +39,7 @@ Built with Vite and Tailwind CSS, this repo showcases how I structure reusable U
 ## 🤖 Hardware & Robotics
 
 - **Johnny-5** – Desktop robotic arm with Raspberry Pi + AI integration
-  - [Repo](https://github.com/MWardenDev/REPLACE_JOHNNY5)
+  
 
 ---
 
